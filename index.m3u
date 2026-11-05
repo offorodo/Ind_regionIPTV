@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1,OnnetSystems Stream 161
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/161/master.m3u8
+#EXTINF:60,9X Jalwa (1080p)
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:60,9XM (1080p)
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+#EXTINF:60,&TV International (1080p)
+https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
+#EXTINF:-1,OnnetSystems Stream 54
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/54/54_0.m3u8
+#EXTINF:12,Cartoon Network HD+ (720p)
+https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
+#EXTINF:32,Colors (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
+#EXTINF:32,Colors Cineplex (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
+#EXTINF:24,Colors HD
+http://103.135.253.32:8080/Color-HD/index.m3u8
+#EXTINF:32,Colors MENA HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
+#EXTINF:32,Colors Rishtey Americas (396p)
+https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
+#EXTINF:54,Dangal 2 (720p)
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:60,Dangal TV (720p)
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:19,DD Bharati (720p)
+https://cdn.pishow.tv/ott/live/10/master.m3u8
+#EXTINF:12,Discovery Channel (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+#EXTINF:12,Discovery Channel HD (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
+#EXTINF:12,Discovery Kids (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
+#EXTINF:12,Discovery Science (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
+#EXTINF:12,Discovery Turbo (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
+#EXTINF:30,Divya Darshan TV HD (1080p)
+https://live.divyadarshantv.com/hls/0/stream.m3u8
+#EXTINF:16,Goldmines
+https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
+#EXTINF:24,Goldmines
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
+#EXTINF:-1,OnnetSystems Stream 52
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/52/52_0.m3u8
+#EXTINF:24,Goldmines Bollywood
+https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8
+#EXTINF:24,Hindi Hits (720p)
+https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
+#EXTINF:-1,OnnetSystems Stream 106
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/106/106_0.m3u8
+#EXTINF:24,Janta TV (1080p)
+https://live.jswk.online/IK_RTPM/live/index.m3u8
+#EXTINF:24,Kantipur TV
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
+#EXTINF:-1,OnnetSystems Stream 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/19/master.m3u8
+#EXTINF:19,Manoranjan TV (720p)
+https://cdn.pishow.tv/ott/live/1013/master.m3u8
+#EXTINF:20,Public 4K TV
+http://103.180.240.141:8080/hls/main1/playlist.m3u8
+#EXTINF:24,Sony Entertainment Television HD (1080p)
+http://38.96.178.205/SONYHD/index.m3u8
+#EXTINF:12,Sony SAB (720p)
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+#EXTINF:138,Sony Wah (1080p)
+https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
+#EXTINF:31,Zee Cinema (576p)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+#EXTINF:32,Zee Cinema APAC (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+#EXTINF:-1,OnnetSystems Stream 294
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/294/master.m3u8
+#EXTINF:60,Zee News (1080p)
+https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
+#EXTINF:101,Zoom (720p)
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
