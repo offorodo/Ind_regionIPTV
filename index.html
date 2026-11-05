@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>India Region IPTV Playlist</title>
+  <meta name="description" content="Curated India-region IPTV playlist.">
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,sans-serif;max-width:760px;margin:12vh auto;padding:0 24px;line-height:1.6;color:#202124}
+    h1{line-height:1.2} .url{overflow-wrap:anywhere;background:#f3f4f6;padding:14px;border-radius:8px}
+    button{border:0;border-radius:8px;padding:12px 18px;font-size:1rem;cursor:pointer;background:#155eef;color:white}
+    a{color:#155eef} .muted{color:#5f6368;font-size:.95rem}
+  </style>
+</head>
+<body>
+  <h1>India Region IPTV</h1>
+  <p>A curated M3U playlist of selected Indian-region channel streams.</p>
+  <p class="url" id="playlist-url">https://offorodo.github.io/Ind_regionIPTV/index.m3u</p>
+  <button id="copy-button" type="button">Copy playlist link</button>
+  <p id="copy-status" class="muted" role="status" aria-live="polite"></p>
+  <p><a href="./index.m3u">Open playlist file</a> · <a href="https://github.com/offorodo/Ind_regionIPTV">View source on GitHub</a></p>
+  <p class="muted">Playback is provided by third-party stream hosts. Availability and rights depend on each source.</p>
+  <script>
+    const button = document.getElementById('copy-button');
+    const url = document.getElementById('playlist-url').textContent.trim();
+    const status = document.getElementById('copy-status');
+    button.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(url);
+        status.textContent = 'Playlist link copied!';
+      } catch {
+        const field = document.createElement('textarea');
+        field.value = url;
+        field.style.position = 'fixed';
+        field.style.opacity = '0';
+        document.body.appendChild(field);
+        field.select();
+        const copied = document.execCommand('copy');
+        field.remove();
+        status.textContent = copied ? 'Playlist link copied!' : 'Copy failed. Please copy the URL above manually.';
+      }
+    });
+  </script>
+</body>
+</html>
