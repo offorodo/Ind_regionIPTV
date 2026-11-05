@@ -6,12 +6,16 @@ This project takes inspiration from the organization and documentation style of 
 
 ## Playlist
 
-- **Raw M3U:** https://raw.githubusercontent.com/offorodo/Ind_regionIPTV/main/india.m3u
-- **Browse the playlist:** https://github.com/offorodo/Ind_regionIPTV/blob/main/india.m3u
+- **Raw M3U:** https://offorodo.github.io/Ind_regionIPTV/index.m3u
+- **Browse the playlist:** https://github.com/offorodo/Ind_regionIPTV/blob/main/index.m3u
 
 ## How to use
 
-Copy the raw M3U URL into a compatible IPTV player such as VLC or Kodi.
+Copy the playlist URL into a compatible IPTV player such as VLC or Kodi.
+
+**GitHub Pages URL:** https://offorodo.github.io/Ind_regionIPTV/index.m3u
+
+GitHub Pages must be enabled for this repository (Settings → Pages → Deploy from a branch → `main` / `/(root)`). Once Pages finishes deploying, the URL above will serve the playlist in the same style as `https://iptv-org.github.io/iptv/index.m3u`.
 
 ## Curation and sources
 
